@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OliverFrancker
+- 👀 I’m interested in IT and Front-end development
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: oliverfrancker@hotmail.com
